@@ -1,0 +1,6 @@
+psycopg2
+scikit-learn
+pandas
+keras-tuner
+matplotlib
+pip
